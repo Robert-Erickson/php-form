@@ -1,6 +1,6 @@
 <p>This example goes through the complete form process with just one input type (email) so that you get your form created and tested on the most simplest of terms. After that you can build the form by adding form elements one at a time, testing to make sure they work.</p>
 
-![flow diagram for form process](//rerickso.w3.uvm.edu/php-form/form-process.png)
+![flow diagram for form process](https://github.com/Robert-Erickson/php-form/blob/master/form-process.png)
 
 <p>For a live sample see: <a href="http://rerickso.w3.uvm.edu/php-form/supporting/commit-1/form.php" target="_blank">http://rerickso.w3.uvm.edu/php-form/form.php</a></p>
 
