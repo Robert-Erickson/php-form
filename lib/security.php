@@ -23,7 +23,7 @@ function securityCheck($myFormURL = "") {
             $status = true;
         }
     }
-    return false; // returning false on purpose to see it fail    
+        
     return $status;
 }
 print PHP_EOL . '<!--  END include security NOTE: ' . $token . ' -->' . PHP_EOL;
